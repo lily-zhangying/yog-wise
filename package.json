@@ -1,0 +1,29 @@
+{
+  "name": "yog-wise",
+  "version": "0.0.0",
+  "description": "yogurt,yog,yog-wise,fis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lily-zhangying/yog-wise.git"
+  },
+  "keywords": [
+    "yogurt",
+    "yog",
+    "yod-wise",
+    "fis"
+  ],
+  "dependencies" : {
+    "request" : "2.36.0",
+    "underscore.deferred": "0.4.0"
+  },
+  "author": "fis-team",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/lily-zhangying/yog-wise/issues"
+  },
+  "homepage": "https://github.com/lily-zhangying/yog-wise"
+}
