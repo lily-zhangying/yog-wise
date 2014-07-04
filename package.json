@@ -18,6 +18,7 @@
   ],
   "dependencies" : {
     "request" : "2.36.0",
+    "yog-log" : "0.0.6",
     "underscore.deferred": "0.4.0"
   },
   "author": "fis-team",
